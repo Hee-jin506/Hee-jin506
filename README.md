@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=ccf2f4&height=200&section=header&text=HeejinChoi&fontColor=000000&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=ccf2f4&height=150&section=header&text=HeejinChoi&fontColor=000000&fontSize=90)
 
 <h3 align="center">👋 Hi there, I'm</h3>
 
