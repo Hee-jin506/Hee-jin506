@@ -20,7 +20,7 @@
 
 <h3 align="center">👩‍💻 What I Usually Code 👩‍💻</h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hee-jin506&layout=compact&theme=dracula">
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hee-jin506&layout=compact&theme=blueberry"></p>
 
 <br>
 
