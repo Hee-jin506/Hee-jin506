@@ -18,6 +18,10 @@
 
 
 
+<h3 align="center">👩‍💻 What I Usually Code 👩‍💻</h3>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hee-jin506&layout=compact&theme=dracula">
+
 <br>
 
 <a href="https://eungeun506.tistory.com/"><img src="https://img.shields.io/badge/Tistory-purple?style=flat-square&logoColor=white"/></a> <a href="https://hee-jin506.github.io/"><img src="https://img.shields.io/badge/Git Blog-000000?style=flat-square&logo=github&&logoColor=white"/></a> [![](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=gmlwls35220@gmail.com)
