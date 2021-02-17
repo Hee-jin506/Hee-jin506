@@ -2,7 +2,7 @@
 
 <h3 align="center">👋 Hi there, I'm</h3>
 
-<p align="center">Studying To Be a Full-stack Developer & Interested In Spectacular Challenges</p>
+<p align="center">Studying To Be a Full-stack Developer & Interested In a Variety of New Challenges</p>
 
 
 
