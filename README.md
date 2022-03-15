@@ -14,7 +14,7 @@
 
 <p align="center">Game<br><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></p>
 
-<p align="center">Projects in Progress (click!)<br><a href="https://stuvel.me/"><img src="https://img.shields.io/badge/STUVEL-D300FF?style=flat-square&logoColor=white"/></a> <a href="https://github.com/MONKEY-PENTHOUSE"><img src="https://img.shields.io/badge/MonkeyPenthouse-black?style=flat-square&logoColor=white"/></a></p>
+<p align="center">Projects in Progress (click!)<br><a href="https://stuvel.me/"><img src="https://img.shields.io/badge/STUVEL-D300FF?style=flat-square&logoColor=white"/></a> <a href="https://github.com/Hee-jin506/MonkeyPenthouse-API"><img src="https://img.shields.io/badge/MonkeyPenthouse-black?style=flat-square&logoColor=white"/></a></p>
 
 <p align="center">Now Studying<br><img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> </p>
 
